@@ -1,5 +1,5 @@
 = IMakeLists Introduces: spam-recruiters
-Doc Writer <doc@example.com>
+IMakeLists
 :reproducible:
 :listing-caption: Listing
 :source-highlighter: rouge
@@ -20,6 +20,8 @@ A paragraph followed by an unordered list{empty}footnote:[AsciiDoc supports unor
 
 == Main
 
+////
+
 Here's how you say "`Hello, World!`" in Prawn:
 
 .Create a basic PDF document using Prawn
@@ -35,3 +37,5 @@ end
 == Conclusion
 
 That's all, folks!
+
+ ////
