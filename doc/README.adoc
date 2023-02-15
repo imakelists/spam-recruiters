@@ -10,7 +10,6 @@ IMakeLists
 // Uncomment next line to set page size (default is A4)
 //:pdf-page-size: Letter
 
-{description}
 An example of a basic https://asciidoc.org[AsciiDoc] document prepared by {author}.
 
 A paragraph followed by an unordered list{empty}footnote:[AsciiDoc supports unordered, ordered, and description lists.] with square bullets.footnote:[You may choose from square, disc, and circle for the bullet style.]
@@ -21,6 +20,21 @@ A paragraph followed by an unordered list{empty}footnote:[AsciiDoc supports unor
 * item 3
 
 == Main
+== status flags
+
+[cols="status, description"]
+|===
+|Cell in column 1, header row |Cell in column 2, header row 
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+
+|Cell in column 1, row 3
+|Cell in column 2, row 3
+
+|Cell in column 1, row 4
+|Cell in column 2, row 4
+|===
 
 ////
 
