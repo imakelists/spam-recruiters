@@ -1,4 +1,4 @@
-phone,company,email,name,category
-2012550246,voto_consulting,akash1@votoconsulting.com,Akash Kumar,
-4084002316,unknown,,,
-4084423662,unknown,,,
+company,phone,email,caller name,status,category,website,comment
+Voto Consulting,2012550246,akash1@votoconsulting.com,Akash Kumar,in review,IT,www.votoconsulting.com,
+unknown,4084002316,,,in review,IT,,
+Ace Technologies,4084423662,,,in review,IT,https://acetechnologies.com/,
