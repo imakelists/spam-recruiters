@@ -24,7 +24,7 @@ A paragraph followed by an unordered list{empty}footnote:[AsciiDoc supports unor
 
 [cols="status, description"]
 |===
-|Cell in column 1, header row |Cell in column 2, header row 
+|status | description 
 
 |Cell in column 1, row 2
 |Cell in column 2, row 2
