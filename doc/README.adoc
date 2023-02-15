@@ -26,14 +26,18 @@ A paragraph followed by an unordered list{empty}footnote:[AsciiDoc supports unor
 |===
 |status | description 
 
-|Cell in column 1, row 2
-|Cell in column 2, row 2
+|new
+|new
 
-|Cell in column 1, row 3
-|Cell in column 2, row 3
+|in review
+|in review
 
-|Cell in column 1, row 4
-|Cell in column 2, row 4
+|scam
+|scam
+
+|legit
+|legit
+
 |===
 
 ////
