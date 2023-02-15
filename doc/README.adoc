@@ -1,6 +1,9 @@
 = IMakeLists Introduces: spam-recruiters
 Doc Writer <doc@example.com>
-
+:reproducible:
+:listing-caption: Listing
+:source-highlighter: rouge
+//:toc:
 // Uncomment next line to add a title page (or set doctype to book)
 //:title-page:
 // Uncomment next line to set page size (default is A4)
