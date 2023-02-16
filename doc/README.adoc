@@ -1,0 +1,28 @@
+= IMakeLists Introduces: spam-recruiters
+IMakeLists
+:description:This will document my data collection and screening procedures for spam recruiters. It will describe phone calls, emails, and external sources used to determine if these recruiters are legit or scams.
+:reproducible:
+:listing-caption: Listing
+:source-highlighter: rouge
+:toc:
+
+== summary
+== status flags
+
+[cols="status, description"]
+|===
+|status | description 
+
+|new
+|new
+
+|in review
+|in review
+
+|scam
+|scam
+
+|legit
+|legit
+
+|===

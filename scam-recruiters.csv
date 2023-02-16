@@ -1,4 +1,13 @@
-company,phone,email,caller name,status,category,website,comment
-Voto Consulting,2012550246,akash1@votoconsulting.com,Akash Kumar,in review,IT,www.votoconsulting.com,
-unknown,4084002316,,,in review,IT,,
-Ace Technologies,4084423662,,,in review,IT,https://acetechnologies.com/,
+company,phone,email,name,status,category,website,comment
+Voto Consulting,2012550246,akash1@votoconsulting.com,Akash Kumar,in review,IT,https://www.votoconsulting.com/,
+Maxsonic,4084002316,nishit.g@maxonic.com,,in review,IT,,called 3 times; no VM
+Ace Technologies,4084423662,,,in review,IT,https://acetechnologies.com/,called 2 times; no VM
+unknown,7037198930,unknown,unknown,in review,IT,,called after 5:00p EST
+unknown,unknown,himanshu.karn@quantumworld.us,,in review,IT,unknown,called after 5:00p EST
+unknown,7039365460,,,in review,IT,,
+unknown,8602471400,shubham.jaishwal@vlinkinfo.com,,in review,IT,,
+unknown,6096626115,ak@kpg99.in|ak@kpgtech.com,,in review,IT,,
+unknown,5512301622,kdinesh@ustechsolutionsinc.com,,in review,IT,https://ustechsolutions.com/,email from separate candidate included
+unknown,7328230138,aman.kumar1@sales.qspinfotech.net,,in review,IT,,
+unknown,8044147910,saikiran@qsiservicesinc.com,,,,,
+unknown,8044147910,kiran.qsi19@gmail.com,,,,,
