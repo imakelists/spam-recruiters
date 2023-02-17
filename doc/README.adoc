@@ -1,12 +1,19 @@
 = IMakeLists Introduces: spam-recruiters
 IMakeLists
-:description:This will document my data collection and screening procedures for spam recruiters. It will describe phone calls, emails, and external sources used to determine if these recruiters are legit or scams.
+:description:this will document IML's data collection and screening procedures for spam recruiters. it will describe phone calls, emails, and external sources used to determine if these recruiters are legit or scams.
 :reproducible:
 :listing-caption: Listing
 :source-highlighter: rouge
 :toc:
 
 == summary
+
+__this__ is an ongoing list of sp(c)ammer job recruitersfootnote:[Typically these are entities who portray or claim to be recruiting for positions that may or may not exist and will prompt potential victims for personal identifying information and or, moreoever, scrape an individual's resume and replace it with their name in hopes of getting hired for a role.]footnote:[https://www.finra.org/investors/insights/fake-online-hiring-scams]. uses RPA Automation and human tools to collect and verify entities.
+
+== contributing
+
+__contributors__ are not being accepted at this time. However this list will include other similar collections taken from other publicly available sources.
+
 == status flags
 
 [cols="status, description"]
@@ -26,3 +33,7 @@ IMakeLists
 |legit
 
 |===
+
+== further actions
+
+__it__ is the hope that this list will contribute to tools used to combat/research fraud. For more information please contact link:https://reportfraud.ftc.gov/[ReportFraud.ftc.gov] or link:https://consumer.ftc.gov/now-leaving?external_url=https%3A%2F%2Fwww.naag.org%2Fnaag%2Fattorneys-general%2Fwhos-my-ag.php&back_url=https%3A%2F%2Fconsumer.ftc.gov%2Farticles%2Fjob-scams[Your Local Attorney General]. 

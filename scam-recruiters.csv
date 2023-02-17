@@ -1,13 +1,23 @@
-company,phone,email,name,status,category,website,comment
-Voto Consulting,2012550246,akash1@votoconsulting.com,Akash Kumar,in review,IT,https://www.votoconsulting.com/,
-Maxsonic,4084002316,nishit.g@maxonic.com,,in review,IT,,called 3 times; no VM
-Ace Technologies,4084423662,,,in review,IT,https://acetechnologies.com/,called 2 times; no VM
-unknown,7037198930,unknown,unknown,in review,IT,,called after 5:00p EST
-unknown,unknown,himanshu.karn@quantumworld.us,,in review,IT,unknown,called after 5:00p EST
-unknown,7039365460,,,in review,IT,,
-unknown,8602471400,shubham.jaishwal@vlinkinfo.com,,in review,IT,,
-unknown,6096626115,ak@kpg99.in|ak@kpgtech.com,,in review,IT,,
-unknown,5512301622,kdinesh@ustechsolutionsinc.com,,in review,IT,https://ustechsolutions.com/,email from separate candidate included
-unknown,7328230138,aman.kumar1@sales.qspinfotech.net,,in review,IT,,
-unknown,8044147910,saikiran@qsiservicesinc.com,,,,,
-unknown,8044147910,kiran.qsi19@gmail.com,,,,,
+company,phone,email,name,status,category,website,address_used,comment
+Voto Consulting,2012550246,*@votoconsulting.com,Akash Kumar,in review,IT,https://www.votoconsulting.com/,,
+Maxsonic,4084002316,*@maxonic.com,,in review,IT,,,called 3 times; no VM
+Ace Technologies,4084423662,,,in review,IT,https://acetechnologies.com/,,called 2 times; no VM
+,7037198930,,unknown,in review,IT,,,called after 5:00p EST
+,unknown,*@quantumworld.us,,in review,IT,unknown,,called after 5:00p EST
+,7039365460,,,in review,IT,,,
+,8602471400,*@vlinkinfo.com,,in review,IT,https://www.vlinkinfo.com/,,
+,6096626115,*@kpg99.in;*@kpgtech.com,,in review,IT,https://kpg99.com/ ; https://kpg99.com/,,
+,5512301622,*@ustechsolutionsinc.com,,in review,IT,https://ustechsolutions.com/,,email from separate candidate included
+,7328230138,*@sales.qspinfotech.net,,in review,IT,,,
+,8044147910,*@qsiservicesinc.com,,in review,IT,,,
+,8044147910,*@gmail.com,,in review,IT,,,
+,2032748200,,,in review,IT,,,
+,5512582664,*@net2source.com,,in review,IT,,,
+,5512789996,*@hiretalent.com,,in review,IT,,,
+,2015249600,,,in review,IT,,,
+,5126289986,*@innovasolutions.com,,in review,IT,,,
+,2032748200,*@erichards.com,,in review,IT,,,email typos
+,6309370265;2014267976,*@q1techinc.com,,in review,IT,https://q1techinc.com/,,email typos
+,8602471400,*@vlinkinfo.com,,in review,IT,,,
+,7343444888;7343444879,*@mjmamerica.com,livingson@mjmamerica.com,in review,IT,,Michigan - United States,email typos; no discernable
+,8324851566,*@objectwin.com,arindam.r@objectwin.com,in review,IT,,19219 Katy Freeway;Suite 275;Houston TX 77094 ,
