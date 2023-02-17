@@ -12,7 +12,7 @@ __this__ is an ongoing list of sp(c)ammer job recruitersfootnote:[Typically thes
 
 == contributing
 
-__contributors__ are not being accepted at this time. However this list will include other similar collections taken from other publicly available sources.
+__contributors__ are not being accepted at this time. however this list will include other similar collections taken from other publicly available sources.
 
 == status flags
 
@@ -36,4 +36,4 @@ __contributors__ are not being accepted at this time. However this list will inc
 
 == further actions
 
-__it__ is the hope that this list will contribute to tools used to combat/research fraud. For more information please contact link:https://reportfraud.ftc.gov/[ReportFraud.ftc.gov] or link:https://consumer.ftc.gov/now-leaving?external_url=https%3A%2F%2Fwww.naag.org%2Fnaag%2Fattorneys-general%2Fwhos-my-ag.php&back_url=https%3A%2F%2Fconsumer.ftc.gov%2Farticles%2Fjob-scams[Your Local Attorney General]. 
+__it__ is the hope that this list will contribute to tools used to combat/research fraud. for more information please contact link:https://reportfraud.ftc.gov/[ReportFraud.ftc.gov] or link:https://consumer.ftc.gov/now-leaving?external_url=https%3A%2F%2Fwww.naag.org%2Fnaag%2Fattorneys-general%2Fwhos-my-ag.php&back_url=https%3A%2F%2Fconsumer.ftc.gov%2Farticles%2Fjob-scams[Your Local Attorney General]. 
