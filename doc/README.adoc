@@ -8,7 +8,7 @@ IMakeLists
 
 == summary
 
-__this__ is an ongoing list of sp(c)ammer job recruitersfootnote:[Typically these are entities who portray or claim to be recruiting for positions that may or may not exist and will prompt potential victims for personal identifying information and or, moreoever, scrape an individual's resume and replace it with their name in hopes of getting hired for a role.]footnote:[https://www.finra.org/investors/insights/fake-online-hiring-scams]. uses RPA Automation and human tools to collect and verify entities.
+__this__ is an ongoing list of sp(c)ammer job recruitersfootnote:[typically these are entities who portray or claim to be recruiting for positions that may or may not exist and will prompt potential victims for personal identifying information and or, moreoever, scrape an individual's resume and replace it with their name in hopes of getting hired for a role.]footnote:[https://www.finra.org/investors/insights/fake-online-hiring-scams]. uses RPA Automation and human tools to collect and verify entities.
 
 == contributing
 
